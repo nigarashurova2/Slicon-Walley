@@ -1,0 +1,12 @@
+.app {
+  height: 1008vh;
+}
+
+.app .cards {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+/*# sourceMappingURL=style.css.map */
